@@ -1,0 +1,17 @@
+
+========================
+2023.03.31 17:47:34 (Z)
+Environment.CommandLine="E:\download\udp_reflector\udp_reflector\ConsoleApp2\index_Secure\index_Secure\XiaowuStudioEncryptDotNetApp\index2Run.exe" 
+Environment.Version=4.0.30319.42000
+Environment.UserDomainName=DESKTOP-6UK4T5A
+Environment.OSVersion=Microsoft Windows NT 6.2.9200.0
+Environment.MachineName=DESKTOP-6UK4T5A
+Environment.Is64BitProcess=True
+Environment.Is64BitOperatingSystem=True
+Environment.CurrentDirectorys=E:\download\udp_reflector\udp_reflector\ConsoleApp2\index_Secure\index_Secure\XiaowuStudioEncryptDotNetApp
+MainModule.FullName=E:\download\udp_reflector\udp_reflector\ConsoleApp2\index_Secure\index_Secure\XiaowuStudioEncryptDotNetApp\index2Run.exe
+R0
+R1
+R2
+R3
+R4
